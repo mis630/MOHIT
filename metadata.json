@@ -1,0 +1,6 @@
+{
+  "name": "Shree Ram Billing",
+  "description": "Professional personal billing assistant for Shree Ram Trader Jamshedpur, with secure app lock, PDF generator, and voice-to-text automated invoicing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
